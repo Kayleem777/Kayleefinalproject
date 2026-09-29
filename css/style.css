@@ -123,6 +123,18 @@ main ul,
 main li {
     text-align: center;
 }
+.game-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+}
+
+.game-row img {
+    width: 200px;        
+    height: auto;
+    flex: 0 1 200px;     
+}
 
 /* Sections (all topics share these rules) */
 section {
