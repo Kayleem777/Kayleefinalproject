@@ -1,7 +1,14 @@
 
 # Final Web Design Project
 Final Project
- <ul>
-        <li><a href="thefinalproject/index.html">Home</a></li>
-        <li><a href="thefinalproject/types.html">Types of Zombies</a></li>
-        <li><a href="thefinalproject/media.html">The Watchlist</a></li>
+    
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="types.html">Types of Zombies</a></li>
+        <li><a href="media.html">The Watchlist</a></li>
+        <li><a href="quiz.html">Quiz</a></li>
+      </ul>
+      <li><a href="games.html">Games
+      </a></li>
+      </ul>
+   
